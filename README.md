@@ -16,7 +16,7 @@ Koden i denne filen laster opp data, behandler denne og lager variabler som blir
 Koden i denne filen gjennomfører analysene. Resultatene og oversikt over datautvalg blir lagret i filer i mappen 'resultater'.
 
 ## funksjoner.py
-Denne filen inneholder funksjoner som blir bnyttet av koden i 'analysere.py'.
+Denne filen inneholder funksjoner som blir benyttet av koden i 'analysere.py'.
 
 <br/><br/>
 **Permanent lenke til innholdet i dette depotet:** https://kostnadsasymmetri-2024.ranik.no
